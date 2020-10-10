@@ -50,7 +50,7 @@ certifications, but it is not a prerequisite for any of them.
 - 1.1.5 [Describe WHAT is: Disaster Recovery](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Disaster-Recovery))
 - 1.1.6 [Describe WHAT is: The Principles of Economies of Scale]
 - 1.1.7 [Describe WHAT is: The Difference between Capital Expenditure (CapEX) and Operational Expenditure (OpEx)](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing) ([WIKI]())
-- 1.1.8 [Describe WHAT is: The Consumption-based Model](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Consumption-Based-Model))
+- 1.1.8 [Describe WHAT is: The Consumption-based Model](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Consumption-Based-Model)) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Capital-vs-Operating-Expenses))
 
 ### 1.2 Describe the DIFFERENCES between Infrastructure-as-a-Service (IaaS) | Plantform-as-a-Service (PaaS) | and Software-as-a-Service (SaaS)
 ---
