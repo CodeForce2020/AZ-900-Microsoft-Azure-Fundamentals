@@ -43,7 +43,7 @@ certifications, but it is not a prerequisite for any of them.
 ## 1.0 Describe Cloud Concepts (15-20%)
 ### 1.1 Describe the benefits and considerations of using cloud services.
 ---
-- 1.1.1 [Describe WHAT is: High Availabilty](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/High_Availability/))
+- 1.1.1 [Describe WHAT is: High Availabilty](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/High-Availability/))
 - 1.1.2 [Describe WHAT is: Elasticity](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing) ([WIKI]())
 - 1.1.3 [Describe WHAT is: Agility](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 - 1.1.4 [Describe WHAT is: Fault Tolerance]
