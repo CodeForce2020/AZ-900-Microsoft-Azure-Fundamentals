@@ -2,11 +2,14 @@
 This is a Guide and pathway to the [AZ-900 Microsoft Azure FUndamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) 
 
 ## Table of Contents:
-1.0 [Cloud Concepts]
-1.1 [Benefits and considerations of using cloud services.]
-1.2 [Differences between Infrastructure-as-a-Service (IaaS) | Plantform-as-a-Service (PaaS) | and Software-as-a-Service (SaaS)]
-1.3 [Differences between Public, Private, and Hybrid Cloud models]
-2.0 [Core Azure Services]
+- 1.0 [Cloud Concepts]
+- 1.1 [Benefits and considerations of using cloud services.]
+- 1.2 [Differences between Infrastructure-as-a-Service (IaaS) | Plantform-as-a-Service (PaaS) | and Software-as-a-Service (SaaS)]
+- 1.3 [Differences between Public, Private, and Hybrid Cloud models]
+---
+- 2.0 [Core Azure Services]
+- 2.1 [Core Azure Archetectural COmponents]
+- 2.2 [Core products avaialble in Azure]
 
 
 
