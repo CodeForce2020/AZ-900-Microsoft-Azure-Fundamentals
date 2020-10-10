@@ -86,15 +86,18 @@ certifications, but it is not a prerequisite for any of them.
 - 2.2.3 [Describe **Compute PRODUCTS**  available for: App Services]
 - 2.2.4 [Describe **Compute PRODUCTS**  available for: Azure Container Instances (ACI)]
 - 2.2.5 [Describe **Compute PRODUCTS**  available for: Azure Kubernetes Services (AKS)]
+
 - 2.2.6 [Describe **Netowrking PRODUCTS** available for: Virtual Network]
 - 2.2.7 [Describe **Netowrking PRODUCTS** available for: Load Balancer]
 - 2.2.8 [Describe **Netowrking PRODUCTS** available for: VPN Gateway]
 - 2.2.9 [Describe **Netowrking PRODUCTS** available for: Application Gateway]
 - 2.2.10 [Describe **Netowrking PRODUCTS** available for: Content Delivery Network]
+
 - 2.2.11 [Describe **Storage PRODUCTS** available for: Blob Storage]
 - 2.2.12 [Describe **Storage PRODUCTS** available for: Disk Storage]
 - 2.2.13 [Describe **Storage PRODUCTS** available for: File Storage]
 - 2.2.14 [Describe **Storage PRODUCTS** available for: Archive Storage]
+
 - 2.2.15 [Describe **Database PRODUCTS** available for: Cosmos DB]
 - 2.2.16 [Describe **Database PRODUCTS** available for: Azure SQL Database]
 - 2.2.17 [Describe **Database PRODUCTS** available for: Azure Database for MySQL]
@@ -108,6 +111,120 @@ certifications, but it is not a prerequisite for any of them.
 - 2.3.1 [Describe Internet of Things (IoT)]
 - 2.3.2 [What are some Products available for IoT on Azure.]
 - 2.3.3 [What are some Products availalbe for IoT Hub]
+- 2.3.4 [What are some Products avaialble for IoT Central]
+
+- 2.3.5 [Describe what is Big Data and Analytics]
+- 2.3.6 [What are some Products available for Big Data and Analytics?]
+- 2.3.7 [Describe what is HDInsight]
+- 2.3.8 [Describe what is Azure Databricks]
+
+- 2.3.9 [Describe what is Artificial Intelligence (AI)]
+- 2.3.10 [What are some Products available for Azure Artificial Intelligence?]
+- 2.3.11 [Describe what is Azure Machine Learning Service and Studio]
+
+- 2.3.12 [Describe Serverless Computing]
+- 2.3.13 [What are Products available for Serverless Computing?]
+- 2.3.14 [Describe what is Azure Functions]
+- 2.3.15 [Describe what is Logic Apps]
+- 2.3.16 [Describe what is Event Grid]
+
+- 2.3.17 [Describe DevOps Soultions available on Azure Such as Azure DevOps and Azure DevTest Labs] 
+
+- 2.3.18 [Describe the benefits and outcomes of using Azure Solutions]
+
+### 2.4 Describe Azure Management Tools
 
 
+Describe Azure tools such as Azure Portal, Azure PowerShell, Azure CLI and Cloud
+Shell
+• Describe Azure Advisor
+
+## Describe Security, Privacy, Compliance, and Trust (25-30%)
+### Describe securing network connectivity in Azure
+---
+
+• Describe Network Security Groups (NSG)
+• Describe Application Security Groups (ASG)
+• Describe User Defined Rules (UDR)
+• Describe Azure Firewall
+• Describe Azure DDoS Protection
+• Choose an appropriate Azure security solution
+
+### Describe core Azure Identity services
+---
+• Describe the difference between authentication and authorization
+• Describe Azure Active Directory
+• Describe Azure Multi-Factor Authentication
+
+### Describe security tools and features of Azure
+---
+• Describe Azure Security Center
+• Describe Azure Security Center usage scenarios
+• Describe Key Vault
+• Describe Azure Information Protection (AIP)
+• Describe Azure Advanced Threat Protection (ATP)
+
+### Describe Azure governance methodologies
+---
+• Describe policies and initiatives with Azure Policy
+• Describe Role-Based Access Control (RBAC)
+• Describe Locks
+• Describe Azure Advisor security assistance
+• Describe Azure Blueprints
+
+### Describe monitoring and reporting options in Azure
+---
+• Describe Azure Monitor
+• Describe Azure Service Health
+• Describe the use cases and benefits of Azure Monitor and Azure Service Health
+
+### Describe privacy, compliance and data protection standards in Azure
+---
+
+• Describe industry compliance terms such as GDPR, ISO and NIST
+• Describe the Microsoft Privacy Statement
+• Describe the Trust center
+• Describe the Service Trust Portal
+• Describe Compliance Manager
+• Determine if Azure is compliant for a business need
+• Describe Azure Government cloud services
+• Describe Azure China cloud services
+
+
+## Describe Azure Pricing, Service Level Agreements, and Lifecycles (20-25%)
+### Describe Azure subscriptions
+---
+
+• Describe an Azure Subscription
+• Describe the uses and options with Azure subscriptions such access control and offer
+types
+• Describe subscription management using Management groups
+
+### Describe planning and management of costs
+---
+
+• Describe options for purchasing Azure products and services
+• Describe options around Azure Free account
+• Describe the factors affecting costs such as resource types, services, locations, ingress
+and egress traffic
+• Describe Zones for billing purposes
+• Describe the Pricing calculator
+• Describe the Total Cost of Ownership (TCO) calculator
+• Describe best practices for minimizing Azure costs such as performing cost analysis,
+creating spending limits and quotas, using tags to identify cost owners, using Azure
+reservations and using Azure Advisor recommendations
+• Describe Azure Cost Management
+
+### Describe Azure Service Level Agreements (SLAs)
+---
+
+• Describe a Service Level Agreement (SLA)
+• Describe Composite SLAs
+• Describe how to determine an appropriate SLA for an application
+
+### Describe service lifecycle in Azure
+---
+• Describe Public and Private Preview features
+• Describe the term General Availability (GA)
+• Describe how to monitor feature updates and product changes
 
