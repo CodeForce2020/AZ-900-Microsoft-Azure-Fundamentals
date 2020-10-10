@@ -26,7 +26,7 @@ development.
 Azure Fundamentals can be used to prepare for other Azure role-based or specialty
 certifications, but it is not a prerequisite for any of them.
 
-## Skills Measured:
+### Skills Measured:
 
 ## Describe Cloud Concepts (15-20%)
 **Describe the benefits and considerations of using cloud services.** 
