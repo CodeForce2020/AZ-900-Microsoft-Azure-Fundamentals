@@ -2,7 +2,14 @@
 This is a Guide and pathway to the [AZ-900 Microsoft Azure FUndamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) 
 
 ## Table of Contents:
-[1.0 Describe the benefits and considerations of using cloud services.](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/blob/main/README.md#10-describe-the-benefits-and-considerations-of-using-cloud-services)
+[1.0 Cloud Concepts]
+[1.1 Benefits and considerations of using cloud services.]
+[1.2 Differences between Infrastructure-as-a-Service (IaaS) | Plantform-as-a-Service (PaaS) | and Software-as-a-Service (SaaS)]
+[1.3 Differences between Public, Private, and Hybrid Cloud models]
+[2.0 Core Azure Services]
+
+
+
 
 ## Content
 
@@ -30,7 +37,7 @@ certifications, but it is not a prerequisite for any of them.
 ## Skills Measured:
 
 
-## 1. Describe Cloud Concepts (15-20%)
+## 1.0 Describe Cloud Concepts (15-20%)
 ### 1.1 Describe the benefits and considerations of using cloud services.
 ---
 - 1.1.1 [Describe WHAT is: High Availabilty]
@@ -58,7 +65,7 @@ certifications, but it is not a prerequisite for any of them.
 - 1.3.3 [Describe WHAT is: Hybrid Cloud]
 - 1.3.4 [Compare and Contrast the three different cloud models.]
 
-## 2. Describe Core Azure Services (30-35%)
+## 2.0 Describe Core Azure Services (30-35%)
 ### 2.1 Describe the Core Azure Archetectural COmponents:
 ---
 
