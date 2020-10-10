@@ -28,16 +28,18 @@ certifications, but it is not a prerequisite for any of them.
 
 ## Skills Measured:
 
+
 ## Describe Cloud Concepts (15-20%)
-**Describe the benefits and considerations of using cloud services.** 
-- [Describe WHAT is: High Availabilty]
-- [Describe WHAT is: Elasticity]
-- [Describe WHAT is: Agility]
-- [Describe WHAT is: Fault Tolerance]
-- [Describe WHAT is: Disaster Recovery]
-- [Describe WHAT is: The Principles of Economies of Scale]
-- [Describe WHAT is: The Difference between Capital Expenditure (CapEX) and Operational Expenditure (OpEx)]
-- [Describe WHAT is: The Consumption-based Model]
+**1.0 Describe the benefits and considerations of using cloud services.** 
+---
+- 1.1 [Describe WHAT is: High Availabilty]
+- 1.2 [Describe WHAT is: Elasticity]
+- 1.3 [Describe WHAT is: Agility]
+- 1.4 [Describe WHAT is: Fault Tolerance]
+- 1.5 [Describe WHAT is: Disaster Recovery]
+- 1.6 [Describe WHAT is: The Principles of Economies of Scale]
+- 1.7 [Describe WHAT is: The Difference between Capital Expenditure (CapEX) and Operational Expenditure (OpEx)]
+- 1.8 [Describe WHAT is: The Consumption-based Model]
 
 **Describe the DIFFERENCES between Infrastructure-as-a-Service (IaaS) | Plantform-as-a-Service (PaaS) | and Software-as-a-Service (SaaS)**
 
