@@ -43,14 +43,14 @@ certifications, but it is not a prerequisite for any of them.
 ## 1.0 Describe Cloud Concepts (15-20%)
 ### 1.1 Describe the benefits and considerations of using cloud services.
 ---
-- 1.1.1 [Describe WHAT is: High Availabilty]
-- 1.1.2 [Describe WHAT is: Elasticity]
-- 1.1.3 [Describe WHAT is: Agility]
+- 1.1.1 [Describe WHAT is: High Availabilty](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+- 1.1.2 [Describe WHAT is: Elasticity](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+- 1.1.3 [Describe WHAT is: Agility](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 - 1.1.4 [Describe WHAT is: Fault Tolerance]
-- 1.1.5 [Describe WHAT is: Disaster Recovery]
+- 1.1.5 [Describe WHAT is: Disaster Recovery](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 - 1.1.6 [Describe WHAT is: The Principles of Economies of Scale]
-- 1.1.7 [Describe WHAT is: The Difference between Capital Expenditure (CapEX) and Operational Expenditure (OpEx)]
-- 1.1.8 [Describe WHAT is: The Consumption-based Model]
+- 1.1.7 [Describe WHAT is: The Difference between Capital Expenditure (CapEX) and Operational Expenditure (OpEx)](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+- 1.1.8 [Describe WHAT is: The Consumption-based Model](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
 
 ### 1.2 Describe the DIFFERENCES between Infrastructure-as-a-Service (IaaS) | Plantform-as-a-Service (PaaS) | and Software-as-a-Service (SaaS)
 ---
