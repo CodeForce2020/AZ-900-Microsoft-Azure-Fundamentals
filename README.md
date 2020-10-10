@@ -2,6 +2,7 @@
 This is a Guide and pathway to the [AZ-900 Microsoft Azure FUndamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) 
 
 ## Table of Contents:
+[1.0 Describe the benefits and considerations of using cloud services.]()
 
 ## Content
 
