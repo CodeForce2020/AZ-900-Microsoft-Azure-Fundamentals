@@ -120,7 +120,7 @@ certifications, but it is not a prerequisite for any of them.
 - 2.3.10 [What are some Products available for Azure Artificial Intelligence?]
 - 2.3.11 [Describe what is Azure Machine Learning Service and Studio]
 
-- 2.3.12 [Describe Serverless Computing]
+- 2.3.12 [Describe Serverless Computing] ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Serverless-Computing))
 - 2.3.13 [What are Products available for Serverless Computing?]
 - 2.3.14 [Describe what is Azure Functions]
 - 2.3.15 [Describe what is Logic Apps]
@@ -131,13 +131,15 @@ certifications, but it is not a prerequisite for any of them.
 - 2.3.18 [Describe the benefits and outcomes of using Azure Solutions]
 
 ### 2.4 Describe Azure Management Tools
+---
 
-
-Describe Azure tools such as Azure Portal, Azure PowerShell, Azure CLI and Cloud
-Shell
+- 2.4.1 [Describe Azure Tools]
+- 2.4.2 [Describe Azure Portal]
+- 2.4.3 [Describe Azure PowerShell]
+- 2.4.4 [Describe Azure CLI and Cloud Shell]
 • Describe Azure Advisor
 
-## Describe Security, Privacy, Compliance, and Trust (25-30%)
+## 3.0 Describe Security, Privacy, Compliance, and Trust (25-30%)
 ### Describe securing network connectivity in Azure
 ---
 
