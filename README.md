@@ -63,10 +63,10 @@ certifications, but it is not a prerequisite for any of them.
 ### 1.3 Describe the differences between Public, Private, and Hybrid Cloud models
 ---
 
-- 1.3.1 [Describe WHAT is: Public Cloud] ([WIKI]())
-- 1.3.2 [Describe WHAT is: Private Cloud] ([WIKI]())
-- 1.3.3 [Describe WHAT is: Hybrid Cloud] ([WIKI]())
-- 1.3.4 [Compare and Contrast the three different cloud models.] ([WIKI]())
+- 1.3.1 [Describe WHAT is: Public Cloud](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Public-Cloud))
+- 1.3.2 [Describe WHAT is: Private Cloud](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Private-Cloud))
+- 1.3.3 [Describe WHAT is: Hybrid Cloud](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Hybrid-Cloud))
+- 1.3.4 [Compare and Contrast the three different cloud models.](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Cloud-Computing-Variation))
 
 ## 2.0 Describe Core Azure Services (30-35%)
 ### 2.1 Describe the Core Azure Archetectural COmponents:
