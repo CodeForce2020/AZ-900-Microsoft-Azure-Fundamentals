@@ -12,8 +12,6 @@ This is a Guide and pathway to the [AZ-900 Microsoft Azure FUndamentals](https:/
 - 2.2 [Core products avaialble in Azure]
 ---
 
-
-
 ## Content
 
 ## Exam AZ-900: Microsoft Azure Fundamentals - Skills Measured
@@ -234,7 +232,11 @@ reservations and using Azure Advisor recommendations
 
 # [Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 
-![Intro Azure Fundamentals](https://docs.microsoft.com/en-us/learn/achievements/intro-to-azure-fundamentals.svg) ## [Introduction to Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/)
+|![Intro Azure Fundamentals](https://docs.microsoft.com/en-us/learn/achievements/intro-to-azure-fundamentals.svg)|## [Introduction to Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/)|
+|---|---|
+
+
 
 ## [Discuss Azure Fundamental Concepts](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/) ![Azure Fundamental Concepts](https://docs.microsoft.com/en-us/learn/achievements/fundamental-azure-concepts.svg)
+
 
