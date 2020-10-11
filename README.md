@@ -76,7 +76,7 @@ certifications, but it is not a prerequisite for any of them.
 ### 2.1 Describe the Core Azure Archetectural COmponents:
 ---
 
-- 2.1.1 [Describe WHAT are: Regions]
+- 2.1.1 [Describe WHAT are: Regions](https://docs.microsoft.com/en-us/learn/modules/discuss-core-azure-architectural-components/2-examine-regions) ( WIKI(https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Regions))
 - 2.1.2 [Describe WHAT are: Availability Zones]
 - 2.1.3 [Describe WHAT are: Resource Groups]
 - 2.1.4 [Describe WHAT are: Azure Resource Manager]
