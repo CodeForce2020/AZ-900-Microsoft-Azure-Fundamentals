@@ -239,29 +239,28 @@ certifications, but it is not a prerequisite for any of them.
 - 4.2.4 [Describe Zones for billing purposes]
 - 4.2.5 [Describe the Pricing calculator]
 - 4.2.6 [Describe the Total Cost of Ownership (TCO) calculator]
-- 4.2.7 [Describe best practices for minimizing Azure costs such as performing cost analysis,
+- 4.2.7 [Describe best practices for minimizing Azure costs such as performing cost analysis]
 - 4.2.8[Describe minimizing Azure Costs with creating spending limits and quotas]
 - 4.2.9 [Describe using tags to identify cost owners, using Azure reservations and using Azure Advisor recommendations] 
 - 4.2.10 [Describe Azure Cost Management]
 
+---
+
+### 4.3 Describe Azure Service Level Agreements (SLAs)
+---
+
+- 4.3.1 [Describe a Service Level Agreement (SLA)]
+- 4.3.2 [Describe Composite SLAs]
+- 4.3.3 [Describe how to determine an appropriate SLA for an application]
+
 
 ---
 
-### Describe Azure Service Level Agreements (SLAs)
+### 4.4 Describe service lifecycle in Azure
 ---
-
-• Describe a Service Level Agreement (SLA)
-• Describe Composite SLAs
-• Describe how to determine an appropriate SLA for an application
-
-
----
-
-### Describe service lifecycle in Azure
----
-• Describe Public and Private Preview features
-• Describe the term General Availability (GA)
-• Describe how to monitor feature updates and product changes
+- 4.4.1 [Describe Public and Private Preview features]
+- 4.4.2 [Describe the term General Availability (GA)]
+- 4.4.3 [Describe how to monitor feature updates and product changes]
 
 ---
 
