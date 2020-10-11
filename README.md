@@ -234,7 +234,7 @@ reservations and using Azure Advisor recommendations
 
 |![Intro Azure Fundamentals](https://docs.microsoft.com/en-us/learn/achievements/intro-to-azure-fundamentals.svg)|[Introduction to Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/)|
 |---|---|
-|![Azure Fundamental Concepts](https://docs.microsoft.com/en-us/learn/achievements/fundamental-azure-concepts.svg) |[Discuss Azure Fundamental Concepts](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/)|
+|![Azure Fundamental Concepts](https://docs.microsoft.com/en-us/learn/achievements/fundamental-azure-concepts.svg)|[Discuss Azure Fundamental Concepts](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/)|
 |![Architecture Fundamentals](https://docs.microsoft.com/en-us/learn/achievements/azure-architecture-fundamentals.svg)|[Describe Core Azure Architectural Components](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)|
 
 
