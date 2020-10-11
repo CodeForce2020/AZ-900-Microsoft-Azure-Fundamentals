@@ -228,3 +228,8 @@ reservations and using Azure Advisor recommendations
 • Describe the term General Availability (GA)
 • Describe how to monitor feature updates and product changes
 
+---
+
+---
+
+
