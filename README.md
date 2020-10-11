@@ -56,7 +56,7 @@ certifications, but it is not a prerequisite for any of them.
 ---
 
 - 1.2.1 [Describe WHAT is: Infrastructure-as-a-Service (IaaS)](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)  ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/IaaS))
-- 1.2.2 [Describe WHAT is: PLatform-as-a-Service (PaaS)](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)  ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/PaaS))
+- 1.2.2 [Describe WHAT is: Platform-as-a-Service (PaaS)](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)  ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/PaaS))
 - 1.2.3 [Describe WHAT is: Software-as-a-Service (SaaS)](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services)  ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/SaaS))
 - 1.2.4 [Compare and Contrast the three different service types.](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services) ([WIKI](https://github.com/CodeForce2020/AZ-900-Microsoft-Azure-Fundamentals/wiki/Compare-Service-Types))
 
